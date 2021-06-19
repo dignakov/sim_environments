@@ -1,0 +1,9 @@
+gym
+numpy
+pybullet
+matplotlib
+opencv-python
+meshcat
+scipy
+scikit-image
+open3d
